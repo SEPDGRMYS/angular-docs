@@ -13,7 +13,7 @@ Angular es un marco (framework) para construir aplicaciones web dinámicas y de 
 Para entender las capacidades del framework Angular, necesitas aprender sobre lo siguiente:
 
   - ** [Componentes](./components)**
-  - ** [Modulos](./modulos)**
+  - ** [Modulos](./modules.md)**
   - ** [Plantillas](./templates)**
   - ** [Directivas](./directives)**
   - ** [Inyección de dependencias](./dependency-injection)**
