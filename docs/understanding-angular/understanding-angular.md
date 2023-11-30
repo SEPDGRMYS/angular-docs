@@ -14,9 +14,9 @@ Para entender las capacidades del framework Angular, necesitas aprender sobre lo
 
   - ** [Componentes](./components)**
   - ** [Modulos](./modules.md)**
-  - ** [Plantillas](./templates)**
+  - ** [Templates (Plantillas)](./templates)**
   - ** [Directivas](./directives)**
-  - ** [Inyección de dependencias](./dependency-injection)**
+  - ** [Inyección de dependencias (DI)](./dependency-injection)**
 
 ## Principios Clave de Angular
 

@@ -74,15 +74,23 @@ const config = {
                 style: "dark",
                 links: [
                     {
-                        title: "Documentación",
+                        title: "Documentación y Ayuda",
                         items: [
                             {
                                 label: "Angular Docs",
-                                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                                href: "https://angular.io/docs",
                             },
                             {
                                 label: "Angular YouTube Course",
                                 href: "https://www.youtube.com/playlist?list=PL1w1q3fL4pmj9k1FrJ3Pe91EPub2_h4jF",
+                            },
+                            {
+                                label: "Angular Training",
+                                href: "https://worldline.github.io/angular-training/",
+                            },
+                            {
+                                label: "Angular Training",
+                                href: "https://angular.io/tutorial/first-app",
                             },
                             {
                                 label: "Guía de comandos",

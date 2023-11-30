@@ -3,37 +3,6 @@ sidebar_position: 2
 ---
 
 # Módulos
-<!-- 
-:::note
-
-Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
-
-:::
-
-:::tip
-
-Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
-
-:::
-
-:::info
-
-Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
-
-:::
-
-:::warning
-
-Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
-
-:::
-
-:::danger
-
-Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
-
-::: 
--->
 
 # Módulos en Angular
 
@@ -68,7 +37,7 @@ export class MiModulo { }
 
 En este ejemplo:
 
-- `declarations`: Lista de componentes, directivas y tuberías que pertenecen a este módulo. **Nota:** Un componente solo puede ser declarado en un solo módulo.
+- `declarations`: Lista de componentes, directivas y tuberías que pertenecen a este módulo. <br /> **Nota:** Un componente solo puede ser declarado en un solo módulo.
 - `imports`: Otros módulos cuyas clases exportadas son necesarias para las plantillas de componentes en este módulo.
 - `exports`: Subconjunto de `declarations` que deben ser accesibles para los componentes de otros módulos.
 
@@ -107,8 +76,37 @@ En este ejemplo, `MiModulo` se importa y se agrega a la lista de módulos import
 - **División Responsabilidades:** Separa lógicamente las responsabilidades, como los módulos de rutas, módulos de servicios, etc.
 - **Lazy Loading:** Utiliza la carga perezosa para cargar módulos solo cuando son necesarios, mejorando el rendimiento inicial de la aplicación.
 
-## Conclusión
-
-Los módulos en Angular son herramientas poderosas para organizar y estructurar tu aplicación. Al seguir las reglas y buenas prácticas, puedes crear una arquitectura modular y mantenible.
 
 Este documento proporciona solo una visión general; para obtener información más detallada, consulta la [documentación oficial de Angular sobre módulos](https://angular.io/guide/ngmodules).
+
+<!-- 
+:::note
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::tip
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::info
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::warning
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::danger
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+::: 
+-->
