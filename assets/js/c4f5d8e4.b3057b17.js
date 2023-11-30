@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkng_docs=self.webpackChunkng_docs||[]).push([[195],{2841:(e,n,c)=>{c.r(n),c.d(n,{default:()=>o});var s=c(7294),t=c(6550);function o(){return s.createElement(t.l_,{to:"/ng-docs/docs/intro"})}}}]);

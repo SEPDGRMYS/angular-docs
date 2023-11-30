@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkangular_docs=self.webpackChunkangular_docs||[]).push([[195],{2841:(a,e,n)=>{n.r(e),n.d(e,{default:()=>c});var r=n(7294),u=n(6550);function c(){return r.createElement(u.l_,{to:"/angular-docs/docs/intro"})}}}]);
